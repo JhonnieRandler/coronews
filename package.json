@@ -1,0 +1,17 @@
+{
+  "name": "webquest",
+  "version": "1.0.0",
+  "description": "Projeto Final da disciplina Desenvolvimento de Sistemas para Web 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Aurélio & Jhon",
+  "license": "ISC",
+  "devDependencies": {
+    "bootstrap": "4.0.0",
+    "jquery": "3.3.1",
+    "popper.js": "1.14.3"
+  }
+}

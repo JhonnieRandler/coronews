@@ -1,0 +1,15 @@
+#nav-btn>div {
+    width: 20px;
+    height: 4px;
+    background-color: #0D2446;
+    margin: 4px 0px;
+    transition: all 0.4s linear;
+}
+
+#nav-btn:hover div {
+    background-color: #142e2a;
+}
+
+.star {
+    background-color: #0D2446;
+}
